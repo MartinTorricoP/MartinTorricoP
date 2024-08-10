@@ -69,10 +69,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="CV_en.pdf">
-    <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume english-purple?style=for-the-badge&logoColor=purple"/>
   </a>
   <a href="CV_es.pdf">
-    <img src="https://img.shields.io/badge/Resume in spanish-a?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume spanish-a?style=for-the-badge&logoColor=white"/>
   </a>
 </div>
 
