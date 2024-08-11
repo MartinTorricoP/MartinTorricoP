@@ -13,57 +13,79 @@
 
 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
 
-🧩 Frameworks
+<a href="https://www.r-project.org">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
 
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-5190cf?style=for-the-badge&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+###
+
+⚙ Frameworks
+
+<a href="https://numpy.org/">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+
+<a href="https://scikit-learn.org/stable/">
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+
+<a href="https://matplotlib.org/">
+<img src="https://img.shields.io/badge/Matplotlib-5190cf?style=for-the-badge&logoColor=white"/></a>
+
+<a href="https://scipy.org/">
+<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
+
+###
 
 💾 Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<a href="https://www.postgresql.org/">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 
+<a href="https://www.mysql.com/">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+
+###
 
 📊 BI & Visualization Tools
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+<a href="https://www.microsoft.com/en/power-platform/products/power-bi?market=af">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/></a>
 
 ###
 
 ### Learning 📚 
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-316192?style=for-the-badge)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://cloud.google.com/?hl=en">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
 
+<a href="https://cloud.google.com/looker?hl=en">
+<img src="https://img.shields.io/badge/Looker-316192?style=for-the-badge"/></a>
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ###
 
-<h3 align="center">Connect with me! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUyNXdpeDdwNzByMjhrNDd1MXRrOWZ6Nml6NGlpeHgwMHlmZXBqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SGGHAPCjED1OcW6ixv/giphy.gif"width="40"></h3>
+<h3 align="center">Connect with me! 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUyNXdpeDdwNzByMjhrNDd1MXRrOWZ6Nml6NGlpeHgwMHlmZXBqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SGGHAPCjED1OcW6ixv/giphy.gif"width="40"></h3>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/martintorricop/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:martin.torrico@ug.uchile.cl">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="CV_en.pdf">
-    <img src="https://img.shields.io/badge/Resume english-purple?style=for-the-badge&logoColor=purple"/>
-  </a>
-  <a href="CV_es.pdf">
-    <img src="https://img.shields.io/badge/Resume spanish-a?style=for-the-badge&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/martintorricop/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:martin.torrico@ug.uchile.cl"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="CV_en.pdf"><img src="https://img.shields.io/badge/Resume english-purple?style=for-the-badge&logoColor=purple"/></a>
+  <a href="CV_es.pdf"><img src="https://img.shields.io/badge/Resume spanish-a?style=for-the-badge&logoColor=white"/></a>
 </div>
 
 ###
