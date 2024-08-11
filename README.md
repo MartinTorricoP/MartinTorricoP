@@ -1,9 +1,5 @@
-###
-
 <h1 align="center"> Hi, I'm Martín!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="40"> </h1>
-
-###
 
 ### About me 💬
 
@@ -13,47 +9,41 @@
   
 🎸 In my free time, I enjoy playing music, chess, and video games.</p>
 
-###
-
 ### Tech Stack 🛠️
 
 💻 Programming Languages
 
 ![Python](https://a11ybadges.com/badge?logo=python)
-![R](https://a11ybadges.com/badge?logo=r).
+![R](https://a11ybadges.com/badge?logo=r)
 
 🧩 Frameworks
 
 ![NumPy](https://a11ybadges.com/badge?logo=numpy)
 ![pandas](https://a11ybadges.com/badge?logo=pandas)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-☁️ Cloud Services
-
-![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud)
-![Microsoft Azure](https://a11ybadges.com/badge?logo=microsoftazure)
-
+![scikit-learn](https://a11ybadges.com/badge?logo=scikitlearn)
+![Matplotlib](https://a11ybadges.com/badge?text=matplotlib&badgeColor=white)
+![SciPy](https://a11ybadges.com/badge?logo=scipy)
 
 💾 Databases
 
+![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
 ![MySQL](https://a11ybadges.com/badge?logo=mysql)
-![MariaDB](https://a11ybadges.com/badge?logo=mariadb)
-![MongoDB](https://a11ybadges.com/badge?logo=mongodb)
+![MongoDB](https://a11ybadges.com/badge?logo=mongodb&badgeColor=green)
+
 
 📊 BI & Visualization Tools
 
 ![Power BI](https://a11ybadges.com/badge?logo=powerbi)
+
+###
+
+### Learning 📚 
+
+![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud&badgeColor=green)
 ![Looker](https://a11ybadges.com/badge?logo=looker)
-
-⚙️ Others
-
-![Windows](https://a11ybadges.com/badge?logo=windows)
-![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode)
-![GitHub](https://a11ybadges.com/badge?logo=github)
 ![Git](https://a11ybadges.com/badge?logo=git)
-![Jupyter](https://a11ybadges.com/badge?logo=jupyter)
+![GitHub](https://a11ybadges.com/badge?logo=github)
+
 
 ###
 
