@@ -13,36 +13,36 @@
 
 💻 Programming Languages
 
-![Python](https://a11ybadges.com/badge?logo=python)
-![R](https://a11ybadges.com/badge?logo=r)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 🧩 Frameworks
 
-![NumPy](https://a11ybadges.com/badge?logo=numpy)
-![pandas](https://a11ybadges.com/badge?logo=pandas)
-![scikit-learn](https://a11ybadges.com/badge?logo=scikitlearn)
-![Matplotlib](https://a11ybadges.com/badge?text=matplotlib&badgeColor=white)
-![SciPy](https://a11ybadges.com/badge?logo=scipy)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-5190cf?style=for-the-badge&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 
 💾 Databases
 
-![PostgreSQL](https://a11ybadges.com/badge?logo=postgresql)
-![MySQL](https://a11ybadges.com/badge?logo=mysql)
-![MongoDB](https://a11ybadges.com/badge?logo=mongodb&badgeColor=green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 📊 BI & Visualization Tools
 
-![Power BI](https://a11ybadges.com/badge?logo=powerbi)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ###
 
 ### Learning 📚 
 
-![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud&badgeColor=green)
-![Looker](https://a11ybadges.com/badge?logo=looker)
-![Git](https://a11ybadges.com/badge?logo=git)
-![GitHub](https://a11ybadges.com/badge?logo=github)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-316192?style=for-the-badge)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 ###
