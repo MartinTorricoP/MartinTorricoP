@@ -6,6 +6,8 @@
 <img align="right" width=160px height=160px alt="side_sticker" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U1N2hud2Vpc3dodm4zY2g0cXJ3d21kMWEwZmR2NHhzcHR4d3k3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zNhoFLwmtcrtheyTQY/giphy.gif"/>
 
 👨🏻‍💻 I'm currently pursuing my first year of the <a href="https://mds.uchile.cl/">Master's in Data Science</a> at the University of Chile, as part of a dual degree program with <a href="https://www.dii.uchile.cl/english/">Industrial Engineering</a>.
+
+🛋️ I am also working as a Data & BI Intern at <a href="https://www.ikea.com/cl/es/">IKEA</a>, where I contribute to data-driven decision-making processes.
   
 🎸 In my free time, I enjoy playing music, chess, and video games.</p>
 
