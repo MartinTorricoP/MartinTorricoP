@@ -7,7 +7,7 @@
 
 👨🏻‍💻 I'm currently pursuing my first year of the <a href="https://mds.uchile.cl/">Master's in Data Science</a> at the University of Chile, as part of a dual degree program with <a href="https://www.dii.uchile.cl/english/">Industrial Engineering</a>.
 
-🛋️ I am also working as a Data & BI Intern at <a href="https://www.ikea.com/cl/es/">IKEA</a>, where I contribute to data-driven decision-making processes.
+🛋️ I've recently completed my Data & BI Internship <a href="https://www.ikea.com/cl/es/">IKEA</a>, where I contribute to data-driven decision-making processes.
   
 🎸 In my free time, I enjoy playing music, chess, and video games.</p>
 
@@ -57,18 +57,22 @@
 
 📊 BI & Visualization Tools
 
+<a href="https://cloud.google.com/looker?hl=en">
+<img src="https://img.shields.io/badge/Looker-316192?style=for-the-badge"/></a>
+
 <a href="https://www.microsoft.com/en/power-platform/products/power-bi?market=af">
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/></a>
 
 ###
 
-### Learning 📚 
+☁️ Cloud 
 
 <a href="https://cloud.google.com/?hl=en">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
 
-<a href="https://cloud.google.com/looker?hl=en">
-<img src="https://img.shields.io/badge/Looker-316192?style=for-the-badge"/></a>
+###
+
+🌐 VCS
 
 <a href="https://git-scm.com/">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
@@ -76,7 +80,12 @@
 <a href="https://github.com/">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-###
+### 
+
+Learning 📚 
+
+<a href="https://aws.amazon.com/">
+<img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>
 
 <h3 align="center">Connect with me! 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWUyNXdpeDdwNzByMjhrNDd1MXRrOWZ6Nml6NGlpeHgwMHlmZXBqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SGGHAPCjED1OcW6ixv/giphy.gif"width="40"></h3>
