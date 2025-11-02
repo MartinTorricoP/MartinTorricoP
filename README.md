@@ -95,7 +95,7 @@ Learning 📚
 <div align="center">
   <a href="https://www.linkedin.com/in/martintorricop/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:martin.torrico@ug.uchile.cl"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="CV_en.pdf"><img src="https://img.shields.io/badge/Resume english-purple?style=for-the-badge&logoColor=purple"/></a>
+  <a href="CV_en_09_2025.pdf"><img src="https://img.shields.io/badge/Resume english-purple?style=for-the-badge&logoColor=purple"/></a>
   <a href="CV_es.pdf"><img src="https://img.shields.io/badge/Resume spanish-a?style=for-the-badge&logoColor=white"/></a>
 </div>
 
